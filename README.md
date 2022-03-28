@@ -3,4 +3,4 @@
 
 описание статьи https://infostart.ru/1c/articles/1625276/
 
-телеграмм канал разработчика https://t.me/quazareline
+телеграмм разработчика https://t.me/quazareline
